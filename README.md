@@ -17,3 +17,6 @@ If the complaint is not resolved in 15 days, then it will be redirected to highe
 authority, Manager in our case. Manager have Name, Manager ID (Primary
 Key)Phone Number, Customer ID(Foreign Key) as attributes.
 Loan Table and Complaint Table will have Total Participation.
+
+  
+<img width="789" alt="Screenshot 2023-09-05 at 10 30 06 PM" src="https://github.com/meharr02/BankLoanManagementSystem/assets/138808971/0b36bbd4-66b1-49ff-bf82-787cdffd2868">
